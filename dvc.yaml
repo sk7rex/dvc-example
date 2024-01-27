@@ -1,0 +1,5 @@
+stages:
+  train:
+    cmd: python train.py
+    outs:
+    - dvclive
